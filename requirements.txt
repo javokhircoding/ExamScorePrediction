@@ -1,1 +1,3 @@
 kagglehub
+jupyter
+scikit-learn
