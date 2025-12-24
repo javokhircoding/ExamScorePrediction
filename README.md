@@ -1,0 +1,1 @@
+And README worth reading, now you wasted your 3 seconds for reading it
