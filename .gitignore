@@ -1,2 +1,3 @@
 ExamScorePrediction.code-workspace
 src/.*/
+venv
